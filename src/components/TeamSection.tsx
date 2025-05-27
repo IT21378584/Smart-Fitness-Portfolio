@@ -1,4 +1,4 @@
-import React from 'react';
+const baseURL = 'https://it21378584.github.io/smart-fitness-portfolio';
 import { Linkedin, Twitter, Mail } from 'lucide-react';
 
 export function TeamSection() {
@@ -7,37 +7,37 @@ export function TeamSection() {
       name: 'Mrs. Sanjeevi Chandrasiri',
       role: 'Supervisor',
       bio: 'SLecturer, Sri Lanka Institute of Information Technology',
-      image: '/61.jpg',
+      image: '/smart-fitness-portfolio/61.jpg',
     },
     {
       name: 'Ms. Ishara Weerathunga',
       role: 'Co-Supervisor',
       bio: 'Assistant Lecturer, Sri Lanka Institute of Information Technology',
-      image: '/.jpg',
+      image: '/smart-fitness-portfolio/66.jpg',
     },
     {
       name: 'Mr. Rashane Malsha',
       role: 'Researcher',
       bio: 'BSc (Hons) Information Technology Specializing in Information Technology',
-      image: '/62.jpg',
+      image: '/smart-fitness-portfolio/62.jpg',
     },
     {
       name: 'Ms. Sahani Kulathilaka',
       role: 'Researcher',
       bio: 'BSc (Hons) Information Technology Specializing in Information Technology',
-      image: '/65.jpg',
+      image: '/smart-fitness-portfolio/65.jpg',
     },
     {
       name: 'Mr. Kanchana Jayawardhana',
       role: 'Researcher',
       bio: 'BSc (Hons) Information Technology Specializing in Information Technology',
-      image: '/64.jpg',
+      image: '/smart-fitness-portfolio/64.jpg',
     },
     {
       name: 'Ms. Sahassrika Karunasena',
       role: 'Researcher',
       bio: 'BSc (Hons) Information Technology Specializing in Information Technology',
-      image: '/63.jpg',
+      image: '/smart-fitness-portfolio/63.jpg',
     },
   ];
 
